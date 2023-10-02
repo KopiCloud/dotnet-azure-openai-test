@@ -1,2 +1,3 @@
-# dotnet-azure-openai-test
-Azure OpenAI Test App in .NET
+# Azure OpenAI Test App in .NET
+
+A useful small app to test Azure OpenAI Endpoints developed in C#.NET.
