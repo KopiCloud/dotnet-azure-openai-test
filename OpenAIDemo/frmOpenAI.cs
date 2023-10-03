@@ -31,13 +31,13 @@ namespace OpenAIDemo
 
             textQuestion.Text = "How many countries in Europe?";
 
-            textEndpoint1.Text = "https://kopicloud-openai-dev-we.openai.azure.com/";
-            textCredentialKey1.Text = "2b023a84771c44edb55accda0b29f800";
-            textModelName1.Text = "kopicloud-openai-dev-we-acd";
+            textEndpoint1.Text = "";
+            textCredentialKey1.Text = "";
+            textModelName1.Text = "";
 
-            textEndpoint2.Text = "https://kopicloud-openai-dev-eus.openai.azure.com/";
-            textCredentialKey2.Text = "76e78017668d49af974e2c4f55bf17ee";
-            textModelName2.Text = "kopicloud-openai-dev-eus-acd";
+            textEndpoint2.Text = "";
+            textCredentialKey2.Text = "";
+            textModelName2.Text = "";
         }
         #endregion
 
